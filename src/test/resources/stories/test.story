@@ -4,7 +4,7 @@ Meta:
 Narrative:
 In order to test petclinic application
 As a user 
-I want to verify all use cases
+I want to verify all use   cases
 
 Scenario: Verify image on homepage
 Given user enters the valid url
